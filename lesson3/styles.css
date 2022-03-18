@@ -1,0 +1,12 @@
+.text {
+    color: blue;
+}
+.block {
+    color: rgb(238, 33, 18);
+}
+.text-heading {
+    background-color: black;
+}
+#text-heading {
+    background-color: yellow;
+}

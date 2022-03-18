@@ -1,0 +1,10 @@
+body {
+    background-color: white;
+}
+span {
+    front-size: 47px;
+}
+div {
+    margin: 100px;
+    border: 1px solid black;
+}
